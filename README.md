@@ -1,5 +1,5 @@
 # NITRO-GEN-AND-CHECKER-V2
-Credits ~ @lnxcz
+
 This is the V2 for nitro gen and checker
 make sure to pip install -r requirements.txt
 ![Capture](https://i.imgur.com/GPhyV3T.png)
